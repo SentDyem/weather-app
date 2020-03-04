@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "SF Display";
+  font-weight: 600;
+  src: url("https://sf.abarba.me/SF-UI-Display-Semibold.otf");
+}
 .App {
   text-align: center;
   display: flex;
@@ -22,4 +27,11 @@ footer {
 }
 header {
   padding: 25px;
+  background-color: black;
+  color: ghostwhite;
+  font-family: "SF Display";
+}
+.weather-icon img {
+  width: 64px;
+  height: 64px;
 }
