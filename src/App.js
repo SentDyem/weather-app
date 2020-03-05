@@ -16,7 +16,7 @@ function App() {
               <Forecast />
           </main>
           <footer>
-              <h5>Приложение было разработано в 2020 году</h5>
+              <h5>Developed by SentDyem in 2020</h5>
           </footer>
       </div>
   );

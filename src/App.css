@@ -22,8 +22,9 @@ footer {
   flex-direction: column;
   justify-content: center;
   background:silver;
-  font-size: small;
+  font-size: 20px;
   text-align: center;
+  font-family: "SF Display";
 }
 header {
   padding: 25px;
